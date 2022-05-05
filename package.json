@@ -1,8 +1,27 @@
 {
-	"name": "new-bot",
-	"version": "1.0.0",
-	"dependencies": {
-		"discord.js": "^13.6.0",
-		"request": "*"
-	}
+  "name": "new-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "request": "*"
+  },
+  "description": "My new discord bot",
+  "main": "src/bot.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemonExposer/new-bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "DemonExposer",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DemonExposer/new-bot/issues"
+  },
+  "homepage": "https://github.com/DemonExposer/new-bot#readme"
 }
